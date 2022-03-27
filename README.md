@@ -1,4 +1,4 @@
-- 👋 Hi, I’m minyoung choi and I current live in South Korea 
+- 👋 Hi, I’m minyoung choi and I live in South Korea 
 - 👀 I’m interested in operating systems, parallel and concurrent system desgin and functional programming. 
 - 🌱 I’m currently learning operating systems, Rust and Scala.
 - 💞️ I’m looking to collaborate on ...
