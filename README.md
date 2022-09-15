@@ -1,8 +1,6 @@
 - 👋 Hi, I’m minyoung choi and I live in South Korea 
 - 👀 I’m interested in operating systems, parallel and concurrent system desgin and functional programming. 
-- 🌱 I’m currently learning operating systems, Rust and Scala.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning operating systems, systems programming and computer architecture
 
 <!---
 myconejo/myconejo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
